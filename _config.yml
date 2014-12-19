@@ -1,0 +1,12 @@
+# Site settings
+title: Shae's Dev Notes
+email: sbsmith86@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm going to dedicated myself to writing a lot of code in 2015. Taking notes here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://shaebryantdev.com" # the base hostname & protocol for your site
+twitter_username: shaebryantdev
+github_username:  sbsmith86
+
+# Build settings
+markdown: kramdown
